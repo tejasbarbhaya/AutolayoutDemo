@@ -1,0 +1,6 @@
+framework module Pods_AutolayoutSwiftDemoTests {
+  umbrella header "Pods-AutolayoutSwiftDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

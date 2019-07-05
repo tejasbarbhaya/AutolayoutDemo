@@ -1,0 +1,30 @@
+{
+    "api": {
+        "results": 20,
+        "teams": [{
+                  "team_id": 33,
+                  "name": "Manchester United",
+                  "code": "MUN",
+                  "logo": "https://www.api-football.com/public/teams/33.png",
+                  "country": "England",
+                  "founded": 1878,
+                  "venue_name": "Old Trafford",
+                  "venue_surface": "grass",
+                  "venue_address": "Sir Matt Busby Way",
+                  "venue_city": "Manchester",
+                  "venue_capacity": 76212
+                  }, {
+                  "team_id": 46,
+                  "name": "Leicester",
+                  "code": "",
+                  "logo": "https://www.api-football.com/public/teams/46.png",
+                  "country": "England",
+                  "founded": 1884,
+                  "venue_name": "King Power Stadium",
+                  "venue_surface": "grass",
+                  "venue_address": "Filbert Way",
+                  "venue_city": "Leicester, Leicestershire",
+                  "venue_capacity": 32262
+                  }]
+    }
+}
